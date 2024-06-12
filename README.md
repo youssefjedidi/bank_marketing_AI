@@ -1,4 +1,4 @@
-# ABC Bank Digital Marketing Strategy by utilizing Artificial Intelligence (AI) / unsupervised learning for cutomer segmentation
+# ABC Bank Digital Marketing Strategy by utilizing Artificial Intelligence (AI) / unsupervised learning for customer segmentation
 ## Overview
 This project provides a detailed analysis and digital marketing strategy for ABC Multistate Bank using customer segmentation. By leveraging unsupervised learning (Artificial Intelligence) techniques, i identified distinct customer segments and developed targeted strategies to enhance customer engagement and retention.
 
