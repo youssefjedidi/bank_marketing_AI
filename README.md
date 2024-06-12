@@ -4,7 +4,7 @@ This project provides a detailed analysis and digital marketing strategy for ABC
 
 ## presntation
 The work is presented and accessible at the following link: [ABC BANK Digital Marketing case study](https://github.com/youssefjedidi/bank_marketing_AI/blob/main/ABC%20BANK%20Digital%20Marketing%20case%20study.pdf)
-[ABC BANK Digital Marketing case study.pdf](https://github.com/user-attachments/files/15808173/ABC.BANK.Digital.Marketing.case.study.pdf)
+or download via : [ABC BANK Digital Marketing case study.pdf](https://github.com/user-attachments/files/15808173/ABC.BANK.Digital.Marketing.case.study.pdf)
 ## Key Points
 - **Unsupervised Learning**: Utilized clustering algorithms to identify natural groupings within the data.
 - **Customer Segments**:
